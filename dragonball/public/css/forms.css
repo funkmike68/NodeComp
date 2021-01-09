@@ -22,3 +22,15 @@ h2 {
     padding: 40px 0px 40px 0px;
     line-height: 24px;
 }
+
+.img-thumbnail {
+    margin-top: 10px;
+    border:1px solid rgb(28, 5, 128);
+}
+
+.row {
+    margin-left: 90px;
+    margin-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
