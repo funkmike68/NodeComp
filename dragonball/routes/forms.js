@@ -9,7 +9,7 @@ const router = express.Router();
 
 router.get('/', (req, res, next) => {
     //const home = adminRoutes.home;
-    res.render('forms', {pageTitle: 'Forms', path: '/'});
+    res.render('forms', {pageTitle: "Frieza's Many Forms", path: '/'});
 });
 
 module.exports = router;
